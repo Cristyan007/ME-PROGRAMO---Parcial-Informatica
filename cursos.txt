@@ -1,0 +1,5 @@
+Informatica;2598521;4;7;5
+Calculo Diferencial;2540956;3;4;5
+Ingles II;2538201;1;4;4;0
+Lectoescritura;2539101;3;4;5
+Algebra Lineal;2555221;3;4;5
