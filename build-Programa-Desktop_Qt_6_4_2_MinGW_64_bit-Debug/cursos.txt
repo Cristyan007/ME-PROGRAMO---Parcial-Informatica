@@ -1,4 +1,4 @@
-567101;Descubriendo la fisica;3;4;
+2567101;Descubriendo la fisica;3;4;
 2559131;Calculo diferencial;3;4;
 2559101;Algebra y trigo;3;4;
 2559121;Geom. Vector. y Analitica;3;4;
